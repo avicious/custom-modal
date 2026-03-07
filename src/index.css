@@ -11,5 +11,26 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fff;
+  background-color: #fbfbfc;
+}
+
+.btn {
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  background-color: #19cba9;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 25px;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+  text-align: justify;
+  margin-top: 10px;
 }
