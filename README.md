@@ -2,7 +2,7 @@
 
 A lightweight, accessible, and highly customizable React modal component built with **React Portals** and **Lucide React**.
 
-## 🚀 Features
+## Features
 
 - **DOM Decoupling:** Uses `createPortal` to render the modal at the end of `document.body`, avoiding z-index and overflow issues.
 - **Accessibility:** Includes `dialog` roles, ARIA attributes, and automatic keyboard support (Esc key to close).
@@ -10,7 +10,7 @@ A lightweight, accessible, and highly customizable React modal component built w
 - **Animation Ready:** Includes dynamic class hooks (`.open`, `.close`) for CSS transitions.
 - **Click-to-Dismiss:** Close the modal by clicking the overlay backdrop.
 
-## 📦 Usage
+## Usage
 
 ```javascript
 import { useState } from "react";
