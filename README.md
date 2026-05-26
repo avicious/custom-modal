@@ -2,6 +2,10 @@
 
 A lightweight, accessible, and highly customizable React modal component built with **React Portals** and **Lucide React**.
 
+## Live Demo
+
+**Check out the live version of this project here:** [avicious.github.io/custom-modal/](https://avicious.github.io/custom-modal/)
+
 ## Features
 
 - **DOM Decoupling:** Uses `createPortal` to render the modal at the end of `document.body`, avoiding z-index and overflow issues.
